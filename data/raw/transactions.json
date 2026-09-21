@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "customer": {
+      "name": "Alice",
+      "email": "alice@example.com"
+    },
+    "amount": 100,
+    "status": "completed"
+  },
+  {
+    "id": 2,
+    "customer": {
+      "name": "Bob",
+      "email": "bob@example.com"
+    },
+    "amount": 250,
+    "status": "pending"
+  }
+]

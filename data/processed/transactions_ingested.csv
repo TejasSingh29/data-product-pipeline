@@ -1,0 +1,3 @@
+id,amount,status,customer.name,customer.email
+1,100,completed,Alice,alice@example.com
+2,250,pending,Bob,bob@example.com
